@@ -1,0 +1,8 @@
+This is a readme file for demo purpose.
+Modified it
+
+<<<<<<< HEAD
+Hope there is no issue
+=======
+This is very bad update
+>>>>>>> very-bad
